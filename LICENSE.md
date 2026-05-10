@@ -1,4 +1,4 @@
-
+rare Plugin for Todoist for Windows - cloud-sync and gantt-charts is the best Todoist for Windows plugin, featuring cloud-sync and gantt-charts. Powerful, efficient, and optimized
 
 
 
